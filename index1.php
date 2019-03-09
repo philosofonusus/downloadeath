@@ -15,7 +15,7 @@
 
 <img style="float:right;padding-left:50px;" src="images/00-00-387-000.jpg" height="500" width="500"/>
 <div class="exitbutton">
-    <button><a href="index.html">exit</a> </button>
+    <button><a href="index.php">exit</a> </button>
     </div>
        <div class="downloadbuttons">
         <div>
