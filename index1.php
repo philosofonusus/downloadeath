@@ -5,12 +5,14 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Server</title>
+    <title>DOWNLOADEATH</title>
     <link rel="shortcut icon" href="files/favicon.ico"/>
     <link rel="stylesheet" href="css/style.css">
     <script src="js/jquery-2.2.1.min.js"></script>
     <link rel="stylesheet" href="css/media-queries.css">
 </head>
+<link rel="shortcut icon" href="files/favicon.ico"/>
+<title>DOWNLOADEATH</title>
 <body style="background-color: white">
 
 <img style="float:right;padding-left:50px;" src="images/00-00-387-000.jpg" height="500" width="500"/>
